@@ -28,7 +28,7 @@ Our laboratory is led by **[Dr. Maria Carolina Elias](https://github.com/tryprep
 
 ### 🌐 Connect With Us
 
-*   📍 **Location:** Instituto Butantan, São Paulo, Brazil.
+*   📍 **Location:** Butantan Institute, São Paulo, Brazil.
 *   📄 **Scientific Production:** [Lattes Curriculum](https://lattes.cnpq.br/4253838966347741) | [ORCID](https://orcid.org/0000-0002-0501-8280)
 *   ✉️ **Contact:** [carolina.eliassabbaga@butantan.gov.br](mailto:carolina.eliassabbaga@butantan.gov.br)
 
