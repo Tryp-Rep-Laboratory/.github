@@ -18,7 +18,6 @@ Our work integrates high-throughput genomics, molecular biology, and bioinformat
 ### 🚀 Key Projects & Repositories
 
 *   [**tcruzi-replication-landscape**](https://github.com/Tryp-Rep-Laboratory/tcruzi-replication-landscape): Analytical frameworks for base-pair resolution replication mapping in *T. cruzi*.
-*   **Viral-Watch (Coming Soon):** Pipelines for automated variant identification and genomic surveillance.
 
 ---
 
