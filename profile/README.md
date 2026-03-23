@@ -1,6 +1,6 @@
 # Welcome to Tryp-Rep Laboratory 🧬🔬
 
-The **Tryp-Rep Laboratory** is a specialized research unit based at the **Instituto Butantan**, Brazil. We are dedicated to uncovering the molecular and evolutionary mechanisms that govern life at the genomic level, with a primary focus on Trypanosomatids and emerging viral pathogens.
+The **Tryp-Rep Laboratory** is a specialized research unit based at the **Butantan Institute**, Brazil. We are dedicated to uncovering the molecular and evolutionary mechanisms that govern life at the genomic level, with a primary focus on Trypanosomatids and emerging viral pathogens.
 
 ---
 
@@ -11,7 +11,6 @@ Our work integrates high-throughput genomics, molecular biology, and bioinformat
 *   **DNA Replication Dynamics:** High-resolution mapping of replication origins and fork progression to understand genome stability.
 *   **Genomic Maintenance:** The interplay between replication stress, chromatin organization, and mutational asymmetry.
 *   **Evolutionary Landscapes:** How spatial genome compartmentalization drives the diversification of multigene families and virulence factors.
-*   **Viral Genomic Surveillance:** Real-time monitoring and phylodynamic analysis of respiratory and emerging viruses (SARS-CoV-2, Influenza, Dengue).
 
 ---
 
